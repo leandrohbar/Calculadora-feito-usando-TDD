@@ -1,2 +1,2 @@
-# calculadora_feito_usando_TDD
+# Calculadora feito usando TDD
 Feito calculadora usando princípios de TDD para assimilar conhecimentos.
